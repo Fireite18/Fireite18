@@ -1,0 +1,25 @@
+	p{
+		color: white;
+		font-family: cursive;
+		font-weight: bold;
+	}
+	title{
+		color: blue;
+		font-family: cursive;
+		font-weight: bold;
+	}
+	li{
+		color: cyan;
+		font-family: cursive;
+		font-weight: bold;
+		border: 2px solid green;
+
+	}
+	h4{
+		color: white;
+		font-family: cursive;
+		font-weight: bold;
+		background-color: red;
+		text-decoration: underline;
+		text-decoration-color: blue;
+	}
